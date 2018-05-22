@@ -1,5 +1,6 @@
 # ICBT2017: PTTBot2
 
+* Take a look at our [Poster](./Poster.pdf)
 * [Requirements](#requirements)
 * [Usage](#usage)
 
